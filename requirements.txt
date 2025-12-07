@@ -1,0 +1,33 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+
+# Market data
+yfinance>=0.2.31
+pandas-datareader>=0.10.0
+
+# Economic data APIs
+fredapi>=0.5.1
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# Web dashboard
+streamlit>=1.28.0
+streamlit-autorefresh>=1.0.1
+
+# Date/time handling
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Data storage
+sqlalchemy>=2.0.0
+
+# Async support
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# Environment
+python-dotenv>=1.0.0
